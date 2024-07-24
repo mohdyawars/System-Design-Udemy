@@ -40,4 +40,4 @@ Traffic on the system never remains same. In search engine some time there is a 
   - Increased complexity
 
 ![[Pasted image 20240630211325.png]]
-[[System Design - II]]
+[[System Design - Intro to API]]
